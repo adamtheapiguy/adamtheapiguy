@@ -1,8 +1,8 @@
 # Hi there, I'm Adam 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourlinkedin/)
-[![Twitter](https://img.shields.io/twitter/follow/yourtwitterhandle?label=Follow&style=social)](https://twitter.com/yourtwitterhandle)
+[![GitHub followers](https://img.shields.io/github/followers/adamtheapiguy?label=Follow&style=social)](https://github.com/adamtheapiguy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/theapiguy/)
+[![Twitter](https://img.shields.io/twitter/follow/adamtheapiguy?label=Follow&style=social)](https://twitter.com/adamtheapiguy)
 
 Welcome to my GitHub profile! I'm a passionate software engineer with a love for creating efficient, scalable, and impactful solutions. I enjoy exploring new technologies and contributing to open-source projects.
 
