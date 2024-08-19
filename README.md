@@ -11,23 +11,27 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a love for
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **[API Portal](https://github.com/adamtheapiguy/apiportal)**
-- 🌱 I’m currently learning **[New Technology or Framework]**
-- 👯 I’m looking to collaborate on **[Project You Want to Collaborate On]**
-- 💬 Ask me about **[Your Areas of Expertise]**
-- ⚡ Fun fact: **[Interesting or Fun Fact About You]**
+- 🌱 I’m currently learning **[AI]**
+- 👯 I’m looking to collaborate on **[Using AI to detect potential vulnerabilities]**
+- 💬 Ask me about **[REST APIs, Cyber Security, Operational Efficiency]**
+- ⚡ Fun fact: **["⚡ Fun fact: I love cycling in the mountains! Some of my best ideas come to me while navigating challenging mountain trails on two wheels."]**
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=python)
-![Apigee](https://img.shields.io/badge/-Apigee-333?style=flat&logo=python)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![apigee](https://img.shields.io/badge/apigee-%23ED8B00.svg?style=for-the-badge&logo=apigee&logoColor=white)
+![apigee](https://img.shields.io/badge/burp-%23ED8B00.svg?style=for-the-badge&logo=burp&logoColor=white)
+![apigee](https://img.shields.io/badge/readyapi-%23ED8B00.svg?style=for-the-badge&logo=readyapi&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
