@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/theapiguy/)
 [![Twitter](https://img.shields.io/twitter/follow/adamtheapiguy?label=Follow&style=social)](https://twitter.com/adamtheapiguy)
 
-Welcome to my GitHub profile! I'm a passionate software engineer with a love for creating efficient, scalable, and impactful solutions. I enjoy exploring new technologies and contributing to open-source projects.
+Welcome to my GitHub profile! I'm a passionate software engineer with a love for creating efficient, scalable, and impactful solutions. I enjoy exploring new technologies and contributing to cyber security & operational efficiency for any organization I join.
 
 ---
 
