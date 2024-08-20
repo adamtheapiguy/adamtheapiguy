@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a love for
 
 <div align="center">
   <img height="150em" src="media-assets/github-stats.svg"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamtheapiguy&layout=compact&theme=radical&langs_count=6" />
+  <img height="150em" src="media-assets/languages.svg"/>
 </div>
 
 ---
