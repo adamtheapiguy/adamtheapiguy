@@ -38,9 +38,8 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a love for
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adamtheapiguy&show_icons=true&theme=radical&count_private=true" />
+  <img height="150em" src="media-assets/github-stats.svg"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamtheapiguy&layout=compact&theme=radical&langs_count=6" />
-  <img height="150em" src="media-assets/github-stats.svg" />
 </div>
 
 ---
