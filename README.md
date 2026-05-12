@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a love for
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **some really cool stuff**
+- Im working on vehicle diagnostics abd security
 - 🌱 I’m currently learning **[AI]**
 - 👯 I’m looking to collaborate on **[Using AI to detect potential vulnerabilities]**
 - 💬 Ask me about **[REST APIs, Cyber Security, Operational Efficiency]**
