@@ -24,6 +24,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a love for
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C/C++](https://img.shields.io/badge/C/C++-%23ED8B00.svg?style=for-the-badge&logo=wireshark&logoColor=white)
 ![apigee](https://img.shields.io/badge/apigee-%23ED8B00.svg?style=for-the-badge&logo=apigee&logoColor=white)
 ![apigee](https://img.shields.io/badge/burp-%23ED8B00.svg?style=for-the-badge&logo=burp&logoColor=white)
 ![apigee](https://img.shields.io/badge/readyapi-%23ED8B00.svg?style=for-the-badge&logo=readyapi&logoColor=white)
