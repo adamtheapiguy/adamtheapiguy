@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a love for
 
 - 🔭 I’m currently working on **some really cool stuff**
 - Im working on vehicle diagnostics and security (CAN bus network and LIN network)
-- 🌱 I’m currently learning **[AI]**
+- 🧠 Deepening applied expertise in AI — building production ML/AI systems and staying current with the field
 - 👯 I’m looking to collaborate on **[Using AI to detect potential vulnerabilities]**
 - 💬 Ask me about **[REST APIs, Cyber Security, Operational Efficiency]**
 - ⚡ Fun fact: **["⚡ Fun fact: I love cycling in the mountains! Some of my best ideas come to me while navigating challenging mountain trails on two wheels."]**
